@@ -23,4 +23,4 @@ To make the best use of these materials, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/amira20nasser/OSC-24-Flutter-Material.git
+   git clone https://github.com/Open-Source-Community/OSC-24-Flutter-Material.git
