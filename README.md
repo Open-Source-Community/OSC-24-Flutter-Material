@@ -13,8 +13,12 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
 - **[Session 2: Intro flutter](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/Second%20Session)**
   - stateless & stateful widget
   - UI component
- 
-- **Session 3: Managing Dynamic UI with Stateful Widgets and Efficient Data Storage**
+
+- **[Session 3: Stateful Widget]([https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/Second%20Session](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/Third%20Session))**
+  - Stateful widget life cycle
+  - implementation of Stateful widgets in BMI Calculator app
+
+- **Session 4: Managing Dynamic UI with Stateful Widgets and Efficient Data Storage**
 
 ## Getting Started
 
