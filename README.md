@@ -22,6 +22,11 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
    - Local Storage 
    - How to use Hive Package?
    - Code together Note App
+     
+- **[Session 5: Managing Database with SQflite ](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/Fifth%20Session)**
+   - Local Storage 
+   - How to use SQflite Package?
+   - Code together Note App
 
 ## Getting Started
 
