@@ -27,6 +27,11 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
    - Local Storage 
    - How to use SQflite Package?
    - Code together Note App
+     
+- **[Session 6: API ](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/API%20Session)**
+   - What's the API
+   - REST API
+   - DIO Package
 
 ## Getting Started
 
