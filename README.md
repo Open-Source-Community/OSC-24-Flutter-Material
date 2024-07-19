@@ -32,7 +32,12 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
    - What's the API
    - REST API
    - DIO Package
-
+    
+- **[Session 7: State Management ](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/7%20State%20Management)**
+   - Introduction to State Management
+   - Introduction to Bloc
+   - Cubit
+     
 ## Getting Started
 
 To make the best use of these materials, follow these steps:
