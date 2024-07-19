@@ -10,7 +10,7 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
   - Control Flow
   - OOP
 
-- **[Session 2: Intro flutter](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/Second%20Session)**
+- **[Session 2: Intro flutter](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/2%20Intro%20Flutter)**
   - stateless & stateful widget
   - UI component
 
