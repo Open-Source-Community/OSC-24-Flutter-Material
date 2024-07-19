@@ -1,6 +1,7 @@
 # Note App
 
 ## Overview
+
 This application is designed to Manage Note and enable user keep data locally  showcase the implementation of:
   - Stateful widgets 
   - How to use Hive Package? 
