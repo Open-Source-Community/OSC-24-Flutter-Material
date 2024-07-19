@@ -3,7 +3,7 @@
 Welcome to the OSC-24-Flutter-Material repository! This repository contains materials for the OSC Flutter Sessions.
 ## Contents
 
-- **[Session 1: Dart Basics](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/03b65a5d020a108784e265a2fda6ff7b1fb5b89f/First%20Session)**
+- **[Session 1: Dart Basics](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/1%20Dart%20Basics)**
   - Data Types 
   - Null Safety
   - Functions & parameters
