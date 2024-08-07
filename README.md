@@ -37,7 +37,13 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
    - Introduction to State Management
    - Introduction to Bloc
    - Cubit
-     
+ 
+- **[Session 8: Firebase Auth ](https://github.com/Open-Source-Community/OSC-24-Flutter-Material/tree/master/8%20Firebase%20Auth)**
+   - Introduction to Firebase
+   - Installation
+   - Login Authentication using Firebase
+
+
 ## Getting Started
 
 To make the best use of these materials, follow these steps:
