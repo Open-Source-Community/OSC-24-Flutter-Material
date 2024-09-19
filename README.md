@@ -46,9 +46,13 @@ Welcome to the OSC-24-Flutter-Material repository! This repository contains mate
 
 ## Getting Started
 
-To make the best use of these materials, follow these steps:
+### Prerequisites
+Make sure you have the following installed on your local machine:
+- Flutter SDK: [Install here](https://flutter.dev/docs/get-started/install)
+- Dart SDK (comes with Flutter SDK)
+- IDE: [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
-1. Clone this repository to your local machine:
+### Clone the Repository
 
    ```bash
    git clone https://github.com/Open-Source-Community/OSC-24-Flutter-Material.git
